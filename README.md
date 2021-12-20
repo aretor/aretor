@@ -1,4 +1,10 @@
-### Hi there 👋
+### A Short Introduction 👋
+My interests include:
+- Computer Vision
+- Deep Learning
+- Weakly Supervised Learning
+- Game Theory
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aretor&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aretor&layout=compact&theme=react&hide=jupyter+notebook)](https://github.com/anuraghazra/github-readme-stats)
